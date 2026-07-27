@@ -3,9 +3,11 @@ Your Personal AI-Powered Study Assistant
 🎯 What is This?
 AI Study Planner is a smart app that creates personalized study schedules for your exams. Just tell it your subjects, marks, and exam dates - it calculates exactly how many hours to study each subject using artificial intelligence.
 🚀 Quick Start (2 Minutes)
+
 Step 1: Open the App
 Run streamlit run app.py in your terminal
-Or click the app link if hosted online
+
+
 Step 2: Choose Your Mode
 Table
 Mode	Best For
